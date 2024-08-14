@@ -8,4 +8,10 @@
 
 🎓Currently pursuing Btech in Computer Science and Enginerring.
 
-THANK YOU !
+
+
+### MY PROJECTS
+Currently working on a Desktop Apllication which can solve N linear equations of N independent variables using python
+Its source code is available: github.com/MKDev121/LinearEquationSolverProject
+
+THANK YOU :) !
