@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 👨🏽I am Meet Kareliya, an indie game developer and a passionate programmer.
 
@@ -10,7 +10,7 @@
 
 
 
-### MY PROJECTS
+### ⚙️ My Projects 
 Currently working on a Desktop Apllication which can solve N linear equations of N independent variables using python
 Its source code is available: github.com/MKDev121/LinearEquationSolverProject
 
