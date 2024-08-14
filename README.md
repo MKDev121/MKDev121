@@ -17,6 +17,7 @@
   Feel free to edit and enhance the game :)
 
 2)LINEAR EQUATION SOLVER APP
+  
   Currently working on a Desktop Apllication which can solve N linear equations of N independent variables using python and external libraries like numpy and PyQt
   Its source code is available: .[github](https://github.com/MKDev121/LinearEquationSolverProject)
   If you think that that you can make the application more efficient and optimised then feel free to do that.
