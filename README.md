@@ -9,7 +9,7 @@
 🎓Currently pursuing Btech in Computer Science and Enginerring.
 
 
-===================
+
 ### ⚙️ My Projects 
 -------------------
 1)SAVE EARTH
