@@ -4,7 +4,7 @@
 
 📖Always ready to learn and improve my skills in the field of computer science.
 
-🖥️My main focus is on Graphics Programming , Physics Programming , Desktop Development but I also do Mobile and Web development.
+🖥️My special interests in the field of CSE are on Graphics Programming , Physics Programming , Desktop Development ,Mobile and Web development.
 
 🎓Currently pursuing Btech in Computer Science and Enginerring.
 
