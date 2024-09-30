@@ -6,7 +6,7 @@
 
 🖥️My special interests in the field of CSE are on Graphics Programming , Physics Programming , Desktop Development ,Mobile and Web development.
 
-🎓Currently pursuing Btech in Computer Science and Enginerring.
+🎓Currently pursuing Btech in Computer Science and Engineering.
 
 -------------------
 
