@@ -32,8 +32,10 @@
   It will also have ads of all the three types - Interstitial, Banner and Reward ad.
   The project is showcase of my skills in unity and my capability to make a complete android game.
   The source code of this project won't be public.
-  ![Uploading Screenshot 2024-10-19 220718.png…]()
-  ![Uploading Screenshot 2024-10-19 220847.png…]() 
+  ![Screenshot 2024-10-19 220718](https://github.com/user-attachments/assets/ff39f754-60fa-45db-ae91-7af6057fc6d9)
+  ![Screenshot 2024-10-19 220847](https://github.com/user-attachments/assets/4589735f-9829-44eb-bc9d-b671708ed998)
+
+
 
   
 4)LINEAR EQUATION SOLVER APP {ON HOLD}
