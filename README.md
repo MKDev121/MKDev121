@@ -24,6 +24,10 @@
   Mostly all the assets used in the game will be created by me using open source tools like Aesprite,Bosca Ceoil,Gimp etc..
   The game will be set in the world war era, where you, the player, have to defend your base from enemy attack using your units—soldiers, turrets, tanks, airplanes, and bombs.
   After finishing the first version of the game, I will make the source public so that other passionate game developers can also work on it and improve the game.
+
+  Development Footage
+  ![image](https://github.com/user-attachments/assets/52752c43-63e0-4993-87c1-980d7c1a8108)
+
   
 ### 2)The Run {In Development}
 
