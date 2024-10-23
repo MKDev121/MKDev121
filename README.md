@@ -35,7 +35,7 @@
   ![Screenshot 2024-10-20 005446](https://github.com/user-attachments/assets/fd35c674-134c-4bb5-b7f1-ca443f26f147)
 ### 4)LINEAR EQUATION SOLVER APP {ON HOLD}
   
-  Currently working on a Desktop Apllication which can solve N linear equations of N independent variables using python and PyQt.
+  Currently working on a Desktop Application which can solve N linear equations of N independent variables using python and PyQt.
 
 -------------------
 
