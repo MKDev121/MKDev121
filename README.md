@@ -26,8 +26,7 @@
   After finishing the first version of the game, I will make the source public so that other passionate game developers can also work on it and improve the game.
 
   Development Footage
-  ![image](https://github.com/user-attachments/assets/52752c43-63e0-4993-87c1-980d7c1a8108)
-
+  ![image](https://github.com/user-attachments/assets/60c27218-8c8b-468a-9109-edc50f394004)
   
 ### 2)The Run {In Development}
 
@@ -37,6 +36,7 @@
   The project is showcase of my skills in unity and my capability to make a complete android game.
   The source code of this project won't be public.\
   ![Screenshot 2024-10-20 005446](https://github.com/user-attachments/assets/fd35c674-134c-4bb5-b7f1-ca443f26f147)
+  
 ### 4)LINEAR EQUATION SOLVER APP {ON HOLD}
   
   Currently working on a Desktop Application which can solve N linear equations of N independent variables using python and PyQt.
