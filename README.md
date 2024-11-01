@@ -26,7 +26,7 @@
   After finishing the first version of the game, I will make the source public so that other passionate game developers can also work on it and improve the game.
 
   Development Footage
-  ![image](https://github.com/user-attachments/assets/b8ac62f3-fcf1-4fd8-8c31-849d0b6a6160)
+  ![Screen Recording 2024-10-28 141407 - frame at 0m18s](https://github.com/user-attachments/assets/cd3fa264-e258-433e-903f-a869c5183d79)
   
 ### 2)The Run {In Development}
 
