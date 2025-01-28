@@ -28,7 +28,7 @@
   Development Footage
   ![Screen Recording 2024-10-28 141407 - frame at 0m18s](https://github.com/user-attachments/assets/cd3fa264-e258-433e-903f-a869c5183d79)
   
-### 2)The Run {In Development}
+### 3)The Run {In Development}
 
   Working on an endless 3D runner android game using Unity Game Engine.
   The game will have a basic gameplay of an endless runner, coin collection and score system, unlocking in game characters by spending the coins and a leader board system.
