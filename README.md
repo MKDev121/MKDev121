@@ -9,6 +9,25 @@
 🎓Currently pursuing Btech in Computer Science and Engineering.
 
 -------------------
+## 🖥️ Tech Stack:
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+![Python](https://img.shields.io/badge/-Python-00588C?style=flat-square&logo=Python&logoColor=yellow)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)<br>
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
+-------------------
+## 📊 GitHub Stats:
+![MK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKDev121&show_icons=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKDev121&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MKDev121&theme=radical)](https://github.com/MKDev121/github-profile-trophy)
+
+-------------------
 
 # ⚙️ MY PROJECTS 
 
