@@ -23,8 +23,13 @@
 
 -------------------
 ## 📊 GitHub Stats:
+
 ![MK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKDev121&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKDev121&layout=compact&theme=radical)
+
+-------------------
+## Trophies:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MKDev121&theme=radical)](https://github.com/MKDev121/github-profile-trophy)
 
 -------------------
